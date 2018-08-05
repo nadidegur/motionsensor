@@ -1,2 +1,0 @@
-# motionsensor
-CASASLIB
